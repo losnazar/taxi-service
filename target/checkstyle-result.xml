@@ -79,6 +79,7 @@
 <file name="C:\Users\User\IdeaProjects\taxi-service\src\main\java\taxi\service\ManufacturerServiceImpl.java">
 </file>
 <file name="C:\Users\User\IdeaProjects\taxi-service\src\main\java\taxi\util\ConnectionUtil.java">
+<error line="9" severity="error" message="Line is longer than 100 characters (found 103)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
 </file>
 <file name="C:\Users\User\IdeaProjects\taxi-service\src\main\java\taxi\web\filter\AuthenticationFilter.java">
 </file>
