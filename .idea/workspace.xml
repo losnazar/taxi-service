@@ -10,16 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72c8165b-ddac-4278-b915-839bf546e95b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/taxi/util/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/taxi/util/ConnectionUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/taxi/util/ConnectionUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/taxi/util/ConnectionUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/taxi-service-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi-service-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/taxi-service-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/taxi-service-1.0-SNAPSHOT/WEB-INF/classes/taxi/util/ConnectionUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi-service-1.0-SNAPSHOT/WEB-INF/classes/taxi/util/ConnectionUtil.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664968811926</updated>
-      <workItem from="1664968815589" duration="10471000" />
+      <workItem from="1664968815589" duration="10790000" />
     </task>
     <servers />
   </component>
