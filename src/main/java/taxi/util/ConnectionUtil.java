@@ -6,11 +6,9 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class ConnectionUtil {
-    private static final String URL = "jdbc:mysql://vn7m5kgrhppju6s3:"
-            + "awqhh03a9uz1wf1m@au77784bkjx6ipju"
-            + ".cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/iu9h7cxhshowqstr";
-    private static final String USERNAME = "vn7m5kgrhppju6s3";
-    private static final String PASSWORD = "awqhh03a9uz1wf1m";
+    private static final String URL = "YOUR_URL";
+    private static final String USERNAME = "YOUR_USERNAME";
+    private static final String PASSWORD = "YOUR_PASSWORD";
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static {

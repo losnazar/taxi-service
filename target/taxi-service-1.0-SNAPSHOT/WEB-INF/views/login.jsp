@@ -12,6 +12,5 @@
     <button type="submit">Login</button>
 </form>
 <h4><a href="${pageContext.request.contextPath}/drivers/add">Register</a></h4>
-<table><tr><td><%@include file="header.jsp"%></td></tr></table>
 </body>
 </html>
