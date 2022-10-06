@@ -10,7 +10,6 @@ work of the taxi service.
 - Authentication and registration
 - Creating/updating/removing car, driver or manufacturer
 - Displaying car, driver or manufacturer
-- Deleting car, driver or manufacturer
 - Adding driver to the car
 - Displaying all drivers for current car
 ## Technologies
