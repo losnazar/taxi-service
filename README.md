@@ -27,7 +27,7 @@ work of the taxi service.
 ##  Setup
 - Clone project to your IDE.
 - Create the required tables for DB using file: 
-    `src/main/resources/db.properties`.
+    `src/main/resources/init_db.sql`.
 - Add your DB configurations in: 
     `src/main/java/taxi/util/ConnectionUtil`.
 - Run project using __Tomcat 9.0.50__
