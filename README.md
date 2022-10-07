@@ -27,9 +27,9 @@ work of the taxi service.
 ##  Setup
 - Fork this project
 - Create the required tables for DB using file: 
-    __resources/init_db.sql__
+    `src/main/resources/db.properties`.
 - Add your DB configurations in: 
-    __util/ConnectionUtil__
+    `src/main/java/taxi/util/ConnectionUtil`.
 - Run project using __Tomcat 9.0.50__
 ## Deployment
 This project is deployed on [Heroku](https://taxi-service-losyash.herokuapp.com/login) cloud application platform
