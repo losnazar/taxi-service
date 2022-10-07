@@ -25,7 +25,7 @@ work of the taxi service.
 - Apache Tomcat - version 9.0.50
 
 ##  Setup
-- Fork this project
+- Clone project to your IDE.
 - Create the required tables for DB using file: 
     `src/main/resources/db.properties`.
 - Add your DB configurations in: 
