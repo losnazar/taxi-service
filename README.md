@@ -1,10 +1,14 @@
 
 # 🚕 [taxi-service](https://taxi-service-losyash.herokuapp.com/login) 🚕
 
+Web application with frontend and backend parts that implements
+work of the taxi service. Based on 3-layer architecture (dao, service, contoller). 
+Potential custmers can be companies engaged in taxi services. 
 
-Web application with frontend and webend parts that implements
-work of the taxi service.
+__Potential customers:__ companies engaged in taxi services. 
 
+__The purpose of the project:__ application is intended for use as a management system 
+for taxi dispatchers, in order to simplify the accounting of drivers (with their details) and cars.
 
 ## Functionality
 - Authentication and registration
@@ -12,9 +16,9 @@ work of the taxi service.
 - Displaying car, driver or manufacturer
 - Adding driver to the car
 - Displaying all drivers for current car
-## Technologies
 
-- Based on 3-layer architecture (dao, service, contoller)
+## Technologies
+- Java 11
 - JDBC
 - MySQL - version 8.0.22
 - Java Servlet API
@@ -23,6 +27,8 @@ work of the taxi service.
 - HTML
 - CSS
 - Apache Tomcat - version 9.0.50
+- Apache Maven - version 3.8.5
+- Git - version 2.35.1.windows.2
 
 ##  Setup
 - Clone project to your IDE.
@@ -31,6 +37,7 @@ work of the taxi service.
 - Add your DB configurations in: 
     `src/main/java/taxi/util/ConnectionUtil`.
 - Run project using __Tomcat 9.0.50__
+
 ## Deployment
 This project is deployed on [Heroku](https://taxi-service-losyash.herokuapp.com/login) cloud application platform
 and connected to JawsDB MySQL.
