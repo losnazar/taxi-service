@@ -1,2 +1,6 @@
 *.iml
 logs/*
+target/*
+.idea/*
+Procfile
+system.properties
